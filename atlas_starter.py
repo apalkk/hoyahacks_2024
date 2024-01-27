@@ -20,12 +20,7 @@ db = client.myDatabase
 # use a collection named "recipes"
 my_collection = db["recipes"]
 
-recipe_documents = [{"name": "elotes", "ingredients": ["corn", "mayonnaise", "cotija cheese", "sour cream", "lime"], "prep_time": 35},
-                    {"name": "loco moco", "ingredients": [
-                        "ground beef", "butter", "onion", "egg", "bread bun", "mushrooms"], "prep_time": 54},
-                    {"name": "patatas bravas", "ingredients": [
-                        "potato", "tomato", "olive oil", "onion", "garlic", "paprika"], "prep_time": 80},
-                    {"name": "fried rice", "ingredients": ["rice", "soy sauce", "egg", "onion", "pea", "carrot", "sesame oil"], "prep_time": 40}]
+recipe_documents = [{"contents": open("applications_deadlines.txt", "r")}]
 
 # drop the collection in case it already exists
 try:
@@ -118,3 +113,4 @@ my_result = my_collection.delete_many(
     {"$or": [{"name": "elotes"}, {"name": "fried rice"}]})
 print("I deleted %x records." % (my_result.deleted_count))
 print("\n")
+
