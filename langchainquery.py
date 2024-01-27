@@ -26,12 +26,19 @@ qa_retriever = vector_search.as_retriever(
 )
 
 prompt_template = """
-Use the following pieces of context to answer the question at the end. 
-If you don't know the answer, just say that you don't know, don't try to make up an answer.
+Output text that answers the desired question based on a context you are given.
 
+Imagine you are helping me interact with high-school students to help them understand a college better.
+
+You are only allowed to use the information given to you in the context to answer the question concisely.
+
+Remember, you will be first given a context then the question you must answer the question provided next.
+
+Context:
 {context}
 
-Question: {question}
+Question: 
+{question}
 """
 
 PROMPT = PromptTemplate(
