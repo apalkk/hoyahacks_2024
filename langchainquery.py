@@ -28,7 +28,7 @@ qa_retriever = vector_search.as_retriever(
 prompt_template = """
 Output text that answers the desired question based on a context you are given.
 
-Imagine you are helping me interact with high-school students to help them understand a college better.
+Imagine you are helping me interact with high-school students to help them understand the University of Maryland better. Act as if you were a college advisor.
 
 You are only allowed to use the information given to you in the context to answer the question concisely.
 
@@ -53,6 +53,6 @@ qa = RetrievalQA.from_chain_type(
     chain_type_kwargs={"prompt": PROMPT},
 )
 
-docs = qa({"query": "What scholarships are available"})
+docs = qa({"query": "What's the deadline for regular decision"})
 
 print(docs["result"])

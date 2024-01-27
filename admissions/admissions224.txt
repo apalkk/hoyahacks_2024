@@ -1,0 +1,78 @@
+
+
+
+
+
+
+UMD CAS - Central Authentication Service
+
+
+
+
+
+
+ 
+University of Maryland
+
+
+
+Central Authentication Service (CAS)        
+
+
+
+
+
+
+
+
+
+
+
+
+
+Directory ID
+
+
+
+Passphrase
+
+
+
+
+ Don't Remember Login
+                
+
+
+Log in
+
+
+
+
+
+For security reasons, please log out and exit your Web browser when you finish accessing services that require authentication.
+
+The Division of IT will never ask you to put your passphrase into an email message, but scammers will.
+Do not share your passphrase with others!
+
+Former students can no longer login using SID and PIN and must use Directory ID and passphrase. To see if you have a Directory ID or to create one, go to the Former Student Identity Verification page. For more information, see the How to Obtain a New Directory ID for Former Students in the IT Library.
+
+Parents/Guardians can no longer use SID and PIN and must use Directory ID and passphrase to access their student's information. For more information, go to the Shared Access page.
+
+
+
+
+
+Forgot your passphrase?
+Forgot your ID?
+Need help?
+
+
+
+
+
+Having trouble? Please contact the IT Service Desk at 301.405.1500  NOTICE: Unauthorized access to this system is in violation of Md. Annotated Code, Criminal Law Article §§ 8-606 and 7-302 and the Computer Fraud and Abuse Act, 18 U.S.C. §§ 1030 et seq. The University may monitor use of its IT resources as permitted by state and federal law, including the Electronic Communications Privacy Act, 18 U.S.C. §§ 2510-2521 and the Md. Annotated Code, Courts and Judicial Proceedings Article, Section 10, Subtitle 4.  Anyone using this system acknowledges that all use is subject to University of Maryland Policy on the Acceptable Use of Information Technology Resources available at http://www.umd.edu/aup.  By logging in to this/these application(s) I acknowledge and agree to all terms and  conditions regarding my access and the information contained therein.  Web Accessibility
+
+
+
+
+

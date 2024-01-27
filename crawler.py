@@ -32,7 +32,8 @@ class Crawler:
     def crawl(self, url):
         html = self.download_url(url)
         for url in self.get_linked_urls(url, html):
-            self.add_url_to_visit(url)
+            if "umd.edu" in url:
+                self.add_url_to_visit(url)
 
     def run(self):
         iteration = 0
@@ -47,7 +48,7 @@ class Crawler:
                 file.write(soup.text)
                 logging.info(f'Crawling: {url}')
                 iteration += 1
-                if iteration == 50:
+                if iteration == 500:
                     exit()
             except Exception:
                 print(f"Couldn't format: {url}")

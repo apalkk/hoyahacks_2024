@@ -1,0 +1,471 @@
+
+
+
+
+
+
+
+
+
+
+Bachelor of Science | Department of Mechanical Engineering
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+Shape Copy 6Shape Copy 18ShapeShapenext month copynext month
+
+
+A. James Clark School of Engineering, University of Maryland
+Mobile Navigation Trigger
+
+
+
+
+
+
+
+
+Search this site for:
+
+
+
+
+
+
+
+
+Home
+
+
+
+Main Menu
+
+
+
+
+
+Mobile Navigation Trigger Reverse
+
+
+
+
+
+eng.umd.edu
+
+Contact
+
+Apply
+
+Give
+
+Recruit
+
+
+
+
+
+About
+
+
+Mission
+
+Faculty and Staff
+
+Visiting Committee
+
+
+
+Undergraduate
+
+
+Degrees
+
+
+Bachelor of Science
+
+Minor in Nuclear Engineering
+
+Combined B.S/M.S. Program
+
+
+
+Prospective Students
+
+
+First Year Applicants
+
+Transfer Applicants
+
+Distance Programs
+
+Southern Maryland Program
+
+Keystone Program
+
+Why Choose ME
+
+Visit Us
+
+Financial Aid
+
+
+
+Current Students
+
+
+Advising & Support
+
+
+Courses
+
+Required Courses
+
+Technical Electives
+
+Concentration Areas
+
+Course Maps
+
+
+
+Curriculum
+
+Study Abroad
+
+Student Groups
+
+Student Competitions
+
+Scholarships
+
+Awards
+
+Commencement
+
+
+
+Accreditation
+
+
+
+Graduate
+
+
+Degrees
+
+
+M.S. in Mechanical Engineering
+
+M.S. in Reliability Engineering
+
+M. Eng. in Mechanical Engineering
+
+M. Eng. in Reliability Engineering
+
+Doctorate of Philosophy
+
+Ph.D. in Reliability Engineering
+
+
+
+Prospective Students
+
+
+Admissions
+
+International Applicants
+
+
+
+Current Students
+
+
+Advising & Support
+
+
+International Students
+
+Courses
+
+Graduate Program Forms
+
+
+
+Graduate Student Council
+
+Scholarships & Fellowships
+
+
+
+Fellowships and Scholarships
+
+
+
+Research
+
+
+Partnerships & Initiatives
+
+Research Centers & Labs
+
+Research News
+
+
+
+Alumni & Industry
+
+
+Alumni Community
+
+Industry Sponsors
+
+Partner with Mechanical Engineering
+
+Short Courses
+
+
+
+News
+
+
+E-Newsletter
+
+METRICS Magazine
+
+Student Stories
+
+Photos
+
+
+
+
+
+
+
+
+
+eng.umd.edu
+
+Contact
+
+Apply
+
+Give
+
+Recruit
+
+
+
+
+
+Faculty Directory
+
+Staff Directory
+
+Careers
+
+Media
+
+Facilities
+
+ClarkNet
+
+
+
+
+Facebook
+Twitter
+Youtube
+Linkedin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Equipping students to solve grand challenges
+CoursesContact an Advisor 
+
+
+
+
+
+
+
+
+HomeUndergraduateDegreesBachelor of Science 
+Bachelor of Science
+
+
+
+
+Technical ElectivesCourse SyllabiCourse Maps & PlansConcentration Areas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Mechanical Engineering
+The Department of Mechanical Engineering features four major interdisciplinary research centers and more than 40 laboratories. Our faculty and students contribute to key research areas by advancing none-scale 3D printing, developing new generations of health monitoring tools, and leading solutions for robotic systems. From design to manufacturing, we bring innovative ideas to the laboratory and the world. 
+
+	Program Tracks
+Students in Mechanical Engineering choose between one of six concentration areas to tailor their interests and learning experiences.
+
+		Aero/Mechanical Industry
+
+		Automotive Design
+
+		Design and Manufacturing
+
+		Energy and the Environment
+
+		Engineering Management
+
+		Robotics and Mechatronics
+
+Learn More about ME Concentration Areas
+
+Required Courses
+
+
+ENES 100: Introduction to Engineering Design
+Corequisite: MATH 140. Students work as teams to design and build a product using computer software for word-processing, spreadsheet, CAD, and communications skills. 3 credits.
+ENES 102: Mechanics I 
+Corequisite: MATH 140. The equilibrium of stationary bodies under the influence of various kinds of forces. Forces, moments, couples, equilibrium, trusses, frames and machines, beams, and friction. Vector and scalar methods are used to solve problems. 3 credits.
+ENES 220: Mechanics II 
+Prerequisites: ENES 102, MATH 141, PHYS 161. Stress and deformation of solids-rods, beams, shafts, columns, tanks, and other structural, machine, and vehicle members. Topics include stress transformation using Mohr's circle, shear and moment diagrams, derivation of elastic curves, and Euler's buckling formula. 3 credits.
+ENES 221: Dynamics 
+Prerequisites: ENES 102, MATH 141, PHYS 161. Two lectures and one two-hour laboratory per week. Systems of heavy particles and rigid bodies at rest and in motion. Force, acceleration, work-energy, and impulse-momentum relationships. Motion of one body relative to another in a plane and in space. 3 credits.
+MATH 206: Introduction to MATLAB 
+Prerequisite: MATH 141. This course is intended to prepare students for subsequent courses requiring computation with MATLAB. Covers basics of MATLAB including simple commands, variables, solving equations, graphing differentiation and integration, matrices and vectors, functions, M-files and fundamentals of programming in the MATLAB environment. 1 credit. Mechanical Engineering students entering the major in Fall 2017 or later are required to take ENME 202: Fundamentals of Engineering Computing in place of this course unless acceptable programming course credit has been earned. Contact a Mechanical Engineering advisor for more information on accepted programming credit.
+ENES 232: Thermodynamics
+Prerequisites: PHYS 260, PHYS261. Introduction to thermodynamics. Thermodynamic properties of matter. First and second laws of thermodynamics, cycles, reactions, and mixtures. 3 credits.
+ENME 202/ENAE 202: Computing Fundamentals for Engineers 
+Prerequisite: MATH 140. Introduction to computational tools for the solution of engineering problems. C++ & MATLAB programming including branching and loops, functions, file handling, arrays, and data structures. Students will be introduced to object-oriented programming, basic computing, algorithms, and principles of software engineering. 3 credits. Mechanical Engineering students entering the major in Fall 2017 or later are required to take ENME 202: Fundamentals of Engineering Computing in place of MATH 206 unless acceptable programming course credit has been earned. Contact a Mechanical Engineering advisor for more information on accepted programming credit.
+ENME 272: Introduction to Computer Aided Design 
+Prerequisite: ENES 100; Co-requisite: MATH 141 or equivalent. Fundamentals of CAD, using solid modeling packages (Pro/E, SolidWorks, and Autodesk Inventor). Two and three dimensional drawing. Dimensioning and specifications. Introduction of CAD based analysis tools. Students will complete a design project. Credit only granted for ENME 272 or ENME 414. Students entering the Mechanical Engineering program in fall 2012 or later are required to take ENME 272 for their curriculum but may substitute ENME 414 in place of ENME 272 if desired. 2 credits.
+ENME 331: Fluid Mechanics 
+Prerequisite: ENME 232, ENES 221. Principles of fluid mechanics. Mass, momentum, and energy conservation. Hydrostatics. Control volume analysis. Internal and external flow. Boundary layers. Modern measurement techniques. Computer analysis. Laboratory experiments. 3 credits.
+ENME 332: Transfer Processes 
+Prerequisite: ENME 331. The principles of heat transfer. Conduction in solids. Convection. Radiation. Modern measurement techniques. Computer analysis. 3 credits.
+ENME 350: Electronics and Instrumentation I 
+Prerequisite: PHYS 270 and PHYS 271. Modern instrumentation. Basic circuit design, standard microelectronic circuits. Digital data acquisition and control. Signal conditioning. Instrumentation interfacing. Designing and testing analog circuits. Laboratory experiments. 3 credits.
+ENME 351: Electronics and Instrumentation II 
+Prerequisites: ENME 350 and PHYS 270 and PHYS 271. Continuation of ENME 350. Modern instrumentation. Basic circuit design, standard microelectronic circuits. Digital data acquisition and control. Signal conditioning. Instrumentation interfacing. Designing and testing analog circuits. Laboratory experiments. 3 credits.
+ENME 361: Vibration, Controls, and Optimization I 
+Prerequisites: ENES 220, ENES 221, MATH 246, and MATH 206, ENME 271, ENME 202 or equivalent. Fundamentals of vibration, controls, and optimization. Analysis and design in time, Laplace, and frequency domains. Mathematical description of system response, system stability, control, and optimization. Optimal design of mechanical systems. 3 credits.
+ENME 371: Product Engineering and Manufacturing
+Prerequisites: ENES 221, ENME 392 or STAT 400. Business aspects of engineering product development. Relationship of design and manufacturing. Product specification. Statistical process control. Design team development. The development process. 3 credits.
+ENME 382: Introduction to Materials Engineering
+Prerequisite: ENES100; and permission of ENGR-Mechanical Engineering department.
+Corequisite: MATH241.
+Recommended: PHYS261 and PHYS260.
+Restriction: Permission of ENGR-Mechanical Engineering department.
+Cross-listed with ENMA300.
+Credit only granted for: ENMA300 or ENME382.
+Structure of materials, chemical composition, phase transformations,
+corrosion and mechanical properties of metals, ceramics, polymers and
+related materials. Materials selection in engineering applications. 3 credits.
+ENME 392: Statistical Methods for Product and Process Development 
+Prerequisites: MATH 241. Integrated statistical methodology for improvement of products and processes in terms of performance, quality, and cost. Designed experimentation. Statistical process control. Software application. Laboratory activities. 3 credits.
+ENME 400: Machine Design 
+Corequisite: ENME 361. Uses and limitations of finite element analysis, analysis of machine components: straight and curved beams, gears, shafts, plates, shells, bolts, screws, and flanges. 3 credits. This course is an elective course for most students entering the Mechanical Engineering program prior to the Fall 2015 semester.
+ENME 462: Vibration, Controls, and Optimization II 
+Prerequisites: ENME 351 and ENME 361. Continuation of ENME 361. Fundamentals of vibration, controls, and optimization. Analysis and design in time, Laplace, and frequency domains. Mathematical description of system response, system stability, control, and optimization. Optimal design of mechanical systems. 3 credits
+ENME 472: Integrated Product and Process Development 
+Prerequisite: ENME 371. Integration of product development with the development process. Design strategies. Product architecture. Design for manufacturing. Selection of materials. Design for assembly. 3 credits.
+
+
+
+
+Top
+
+
+
+
+
+
+
+
+Faculty Directory
+
+Staff Directory
+
+Careers
+
+Media
+
+Facilities
+
+ClarkNet
+
+
+
+
+
+
+Facebook
+Twitter
+Youtube
+Instagram
+
+
+
+
+
+
+
+
+
+
+
+
+Privacy Policy
+
+Accessibility
+
+umd.edu
+
+
+
+© 2024 University of Maryland
+
+
+
+
+
+
+
