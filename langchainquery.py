@@ -5,7 +5,6 @@ from langchain.prompts import PromptTemplate
 from langchain.chains import RetrievalQA
 from langchain_openai import OpenAI
 
-os.environ["OPENAI_API_KEY"] = ""
 
 MONGODB_ATLAS_CLUSTER_URI = "mongodb+srv://kennywu:helloworld@cluster1.9ot8jux.mongodb.net/?retryWrites=true&w=majority"
 
@@ -25,7 +24,7 @@ qa_retriever = vector_search.as_retriever(
     search_kwargs={"k": 10},
 )
 
-prompt_template = """
+PROMPT_TEMPLATE = """
 Output text that answers the desired question based on a context you are given.
 
 Imagine you are helping me interact with high-school students to help them understand the University of Maryland better. Act as if you were a college advisor.
@@ -42,17 +41,18 @@ Question:
 """
 
 PROMPT = PromptTemplate(
-    template=prompt_template, input_variables=["context", "question"]
+    template=PROMPT_TEMPLATE, input_variables=["context", "question"]
 )
 
-qa = RetrievalQA.from_chain_type(
-    llm=OpenAI(),
-    chain_type="stuff",
-    retriever=qa_retriever,
-    return_source_documents=True,
-    chain_type_kwargs={"prompt": PROMPT},
-)
 
-docs = qa({"query": "What's the deadline for regular decision"})
+def query_q(question: str):
+    QA = RetrievalQA.from_chain_type(
+        llm=OpenAI(),
+        chain_type="stuff",
+        retriever=qa_retriever,
+        return_source_documents=True,
+        chain_type_kwargs={"prompt": PROMPT},
+    )
 
-print(docs["result"])
+    docs = QA({"query": question})
+    return docs["result"]
